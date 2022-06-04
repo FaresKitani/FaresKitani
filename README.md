@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Fares Kitani</h1>
 <h3 align="center">A passionate backend developer from Palestine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fareskitani&label=Profile%20views&color=0e75b6&style=flat" alt="fareskitani" /> </p>
 
 <img data-target="animated-image.replacedImage" alt="156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="display: block; opacity: 1;">
 
 
 - 🔭 I’m currently working on [Laravel-store](https://github.com/FaresKitani/Laravel-store.git)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fareskitani&label=Profile%20views&color=0e75b6&style=flat" alt="fareskitani" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
